@@ -279,15 +279,15 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AkiraSocial.Data\Template.Data.csproj">
+    <ProjectReference Include="..\Template.Data\Template.Data.csproj">
       <Project>{a83ef23b-0d3c-418a-a733-2924a6e95f73}</Project>
       <Name>Template.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\AkiraSocial.Data\UOF\Repository.Pattern.Ef6\Repository.Pattern.Ef6.csproj">
+    <ProjectReference Include="..\Template.Data\UOF\Repository.Pattern.Ef6\Repository.Pattern.Ef6.csproj">
       <Project>{f68a1d19-93fb-47c1-a22b-42bea3e4fd8c}</Project>
       <Name>Repository.Pattern.Ef6</Name>
     </ProjectReference>
-    <ProjectReference Include="..\AkiraSocial.Data\UOF\Repository.Pattern\Repository.Pattern.csproj">
+    <ProjectReference Include="..\Template.Data\UOF\Repository.Pattern\Repository.Pattern.csproj">
       <Project>{6e682a14-c872-4813-b620-76e108dea683}</Project>
       <Name>Repository.Pattern</Name>
     </ProjectReference>

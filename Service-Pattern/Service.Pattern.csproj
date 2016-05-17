@@ -44,7 +44,7 @@
     <Compile Include="Service.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AkiraSocial.Data\UOF\Repository.Pattern\Repository.Pattern.csproj">
+    <ProjectReference Include="..\Template.Data\UOF\Repository.Pattern\Repository.Pattern.csproj">
       <Project>{6e682a14-c872-4813-b620-76e108dea683}</Project>
       <Name>Repository.Pattern</Name>
     </ProjectReference>
